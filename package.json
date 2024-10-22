@@ -1,0 +1,16 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "A simple Express.js API to collect user information and store it in MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.2.0",
+    "express-validator": "^6.14.0"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}
